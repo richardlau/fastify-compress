@@ -17,7 +17,7 @@
     "pump": "^3.0.0",
     "pumpify": "^2.0.1",
     "string-to-stream": "^3.0.0",
-    "unzipper": "^0.10.8"
+    "unzipper": "^0.10.9"
   },
   "devDependencies": {
     "@types/node": "^13.1.0",
